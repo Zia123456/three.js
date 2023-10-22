@@ -1,0 +1,22 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zia123456/three.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zia123456/three.js/issues"
+  },
+  "homepage": "https://github.com/Zia123456/three.js#readme",
+  "devDependencies": {
+    "three": "^0.157.0"
+  }
+}
